@@ -1,0 +1,13 @@
+.bg-purple{
+    background-color: #9575cd;
+}
+
+.footer{
+    padding-top: 20px;
+    background-color: #d1c4e9;
+
+}
+
+p{
+    @include d-none d-sm-block;
+}
